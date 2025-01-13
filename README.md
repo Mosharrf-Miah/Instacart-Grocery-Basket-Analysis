@@ -2,6 +2,7 @@
 
 ## Project Summary 
 
+This Repository contains exploratory analysis of Instacart's sales data, with a focus on uncovering customer buying patterns. 
 
 ## Key Questions 
 1. What the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at
