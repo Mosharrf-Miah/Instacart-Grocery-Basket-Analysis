@@ -2,7 +2,7 @@
 
 ## Project Summary 
 
-This Repository contains exploratory analysis of Instacart's sales data, with a focus on uncovering customer buying patterns. 
+This repository contains exploratory analysis of Instacart's sales data who are a online grocery platform. The analysis has a objective of deriving insights which can be used to assst with a targeted marketing strategy. The analysis addresses critical questions from the sales and marketing teams, including identifying the busiest days and hours for orders, understanding spending patterns, and exploring product popularity by department. The analysis also delves into customer segmentations, examining differences in behavior by brand loyalty, region, age and income to enable Instacart to conduct a successful marketing strategy and individually tailor their campaigns to engage a more diverse customer profile.
 
 ## Key Questions 
 1. What the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at
