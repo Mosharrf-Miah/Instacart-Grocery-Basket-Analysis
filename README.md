@@ -9,8 +9,8 @@ The analysis addresses key questions from the sales and marketing teams — incl
 It also examines customer segmentation, exploring behavioural differences by brand loyalty, region, age, and income. These insights enable Instacart to tailor their campaigns and engage a more diverse customer profile more effectively.
 
 ## Key Questions 
-1. What are the busiest days of the week and hours of the day (i.e., the times with the most orders), and can ads be scheduled during quieter periods?
-2. Are there particular times of the day when people spend the most money, and how might this inform the types of products advertised at those times?
+1. What are the busiest days of the week and hours of the day (i.e., the times with the most orders)?
+2. Are there particular times of the day when people spend the most money?
 3. Are certain types of products more popular than others? Which departments have the highest frequency of product orders?
 4. What’s the distribution among users in terms of brand loyalty (i.e., how often do they return to Instacart)?
 5. Are there differences in ordering habits based on a customer’s loyalty status?
