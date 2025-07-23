@@ -25,7 +25,7 @@ The dataset used for this projects are
 
 ● orders
 
-● orders_products_pripor
+● orders_products_prior
 
 ● products
 
